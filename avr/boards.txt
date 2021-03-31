@@ -75,6 +75,9 @@ menu.bootloader=Bootloader
 1284.menu.bootloader.no_bootloader.bootloader.file=empty/empty.hex
 
 # Pinouts
+1284.menu.pinout.narrow=Narrow pinout
+1284.menu.pinout.narrow.build.variant=narrow
+1284.menu.pinout.narrow.build.bootloader_led=B7
 1284.menu.pinout.standard=Standard pinout
 1284.menu.pinout.standard.build.variant=standard
 1284.menu.pinout.standard.build.bootloader_led=B0
@@ -287,6 +290,9 @@ menu.bootloader=Bootloader
 644.menu.eeprom.erase.bootloader.eesave_bit=1
 
 # Pinouts
+644.menu.pinout.narrow=Narrow pinout
+644.menu.pinout.narrow.build.variant=narrow
+644.menu.pinout.narrow.build.bootloader_led=B7
 644.menu.pinout.standard=Standard pinout
 644.menu.pinout.standard.build.variant=standard
 644.menu.pinout.standard.build.bootloader_led=B0
