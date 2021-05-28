@@ -78,7 +78,9 @@ menu.bootloader=Bootloader
 1284.menu.pinout.narrow=Narrow pinout
 1284.menu.pinout.narrow.build.variant=narrow
 1284.menu.pinout.narrow.build.bootloader_led=B7
-
+1284.menu.pinout.wide=Wide pinout
+1284.menu.pinout.wide.build.variant=wide
+1284.menu.pinout.wide.build.bootloader_led=B7
 
 # EEPROM
 1284.menu.eeprom.keep=EEPROM retained
@@ -285,6 +287,9 @@ menu.bootloader=Bootloader
 644.menu.pinout.narrow=Narrow pinout
 644.menu.pinout.narrow.build.variant=narrow
 644.menu.pinout.narrow.build.bootloader_led=B7
+644.menu.pinout.wide=Wide pinout
+644.menu.pinout.wide.build.variant=wide
+644.menu.pinout.wide.build.bootloader_led=B7
 
 # Variants
 644.menu.variant.modelP=644P / 644PA
